@@ -1,0 +1,56 @@
+Name,Rarity,DPS,Damage,Env Damage,Fire rate,Magazine,Reload time
+Assault Rifle (Burst),Common,47.2,27,30,1.75,30,2.9s
+Assault Rifle (Burst),Uncommon,50.8,29,30,1.75,30,2.7s
+Assault Rifle (Burst),Rare,52.5,30,30,1.75,30,2.6s
+Assault Rifle (M4),Common,165,30,33,5.5,30,2.3s
+Assault Rifle (M4),Uncommon,170.5,31,33,5.5,30,2.2s
+Assault Rifle (M4),Rare,181.5,33,33,5.5,30,2.2s
+Assault Rifle (SCAR),Epic,192.5,35,33,5.5,30,2.1s
+Assault Rifle (SCAR),Legendary,198,36,33,5.5,30,2.1s
+Assault Rifle (Scoped),Rare,80.5,23,25,3.5,20,2.3s
+Assault Rifle (Scoped),Epic,84,24,25,3.5,20,2.2s
+Light Machine Gun,Rare,200,25,25,8,100,5s
+Light Machine Gun,Epic,208,26,25,8,100,4.8s
+Minigun,Epic,192,16,25,12,0,4.8s
+Minigun,Legendary,204,17,25,12,0,4.5s
+Heavy Shotgun,Epic,147,147,20,1,7,5.9s
+Heavy Shotgun,Legendary,154,154,20,1,7,5.6s
+Pump Shotgun,Uncommon,63,90,10,0.7,5,4.8s
+Pump Shotgun,Rare,66.5,95,10,0.7,5,4.6s
+Tactical Shotgun,Common,100.5,67,7,1.5,8,6.3s
+Tactical Shotgun,Uncommon,105,70,7,1.5,8,6s
+Tactical Shotgun,Rare,111,74,7,1.5,8,5.7s
+Hand Cannon,Epic,60,75,75,0.8,7,2.1s
+Hand Cannon,Legendary,62.4,78,75,0.8,7,2s
+Pistol,Common,155.2,23,25,6.75,16,1.5s
+Pistol,Uncommon,162,24,25,6.75,16,1.5s
+Pistol,Rare,168.8,25,25,6.75,16,1.4s
+Revolver,Common,48.6,54,60,0.9,6,2.4s
+Revolver,Uncommon,51.3,57,60,0.9,6,2.3s
+Revolver,Rare,54,60,60,0.9,6,2.2s
+Suppressed Pistol,Epic,175.5,26,25,6.75,16,1.3s
+Suppressed Pistol,Legendary,189,28,25,6.75,16,1.3s
+Submachine Gun,Common,210,14,16,15,35,2.2s
+Submachine Gun,Uncommon,225,15,16,15,35,2.1s
+Submachine Gun,Rare,240,16,16,15,35,2s
+Suppressed Submachine Gun,Common,153,17,19,9,30,2.2s
+Suppressed Submachine Gun,Uncommon,162,18,19,9,30,2.1s
+Suppressed Submachine Gun,Rare,171,19,19,9,30,2s
+Tactical Submachine Gun,Uncommon,208,16,17,13,35,2.4s
+Tactical Submachine Gun,Rare,221,17,17,13,35,2.3s
+Tactical Submachine Gun,Epic,234,18,17,13,35,2.2s
+Bolt-Action Sniper Rifle,Rare,34.7,105,105,0.33,1,3s
+Bolt-Action Sniper Rifle,Epic,36.3,110,105,0.33,1,2.8s
+Bolt-Action Sniper Rifle,Legendary,38.3,116,105,0.33,1,2.7s
+Crossbow,Rare,45,75,0,0.6,5,2.6s
+Crossbow,Epic,47.4,79,0,0.6,5,2.5s
+Hunting Rifle,Uncommon,68.8,86,90,0.8,1,1.9s
+Hunting Rifle,Rare,72,90,90,0.8,1,1.8s
+Semi-Auto Sniper Rifle,Epic,75.6,63,60,1.2,10,2.5s
+Semi-Auto Sniper Rifle,Legendary,79.2,66,60,1.2,10,2.3s
+Grenade Launcher,Rare,100,100,375,1,6,3s
+Grenade Launcher,Epic,105,105,375,1,6,2.8s
+Grenade Launcher,Legendary,110,110,375,1,6,2.7s
+Rocket Launcher,Rare,82.5,110,375,0.75,1,2.3s
+Rocket Launcher,Epic,87,116,375,0.75,1,2.2s
+Rocket Launcher,Legendary,90.8,121,375,0.75,1,2.1s
